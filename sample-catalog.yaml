@@ -22,6 +22,8 @@ spec:
   owner: CNCF
   lifecycle: production
 
+---
+
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
